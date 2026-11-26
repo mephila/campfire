@@ -17,3 +17,5 @@ press `F6` in game to open the menu. drag the title bar to move it, `F6` or `Esc
 - **plain name on joins**: keeps your name uncoloured while you join and while other players join
 
 settings are saved in `BepInEx/config/mephila.cozymenu.cfg`.
+
+will add more later. or not. lol.
