@@ -5,7 +5,7 @@ bepinex mods for the cozy campfire club demo.
 | mod | desc |
 |---|---|
 | [cozyunlock](cozyunlock) | unlocks all game items, skips level requirements, owns every cosmetic, keeps money maxed |
-| [cozysize](cozysize) | change your size with a small in game window (F6) |
+| [cozymenu](cozymenu) | F6 menu: change your size and colour your name |
 
 
 every mod here needs bepinex 5.
